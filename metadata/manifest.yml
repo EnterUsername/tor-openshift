@@ -15,7 +15,7 @@ Provides:
 License: Tor's License
 Cartridge-Version: '0.0.4'
 License-Url: https://gitweb.torproject.org/tor.git/plain/LICENSE
-Source-Url: https://github.com/xkollar/tor-openshift/archive/master.zip
+Source-Url: https://github.com/EnterUsername/tor-openshift/archive/master.zip
 Categories:
 - embedded
 - tor

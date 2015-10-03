@@ -2,7 +2,7 @@
 
 if ! type -a tor &>/dev/null; then
 
-    SRC_URL="https://www.torproject.org/dist/tor-${TOR_VERSION}.tar.gz"
+    SRC_URL="https://dist.torproject.org/tor-${TOR_VERSION}.tar.gz"
     SIG_URL="${SRC_URL}.asc"
 
     tmp=$( mktemp -d )
